@@ -27,3 +27,20 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+
+.card-no_border {
+  border: none;
+}
+
+.card:hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
+
+.index-portfolio a{
+  text-decoration: none;
+  color: #696969;
+}
