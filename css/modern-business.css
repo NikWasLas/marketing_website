@@ -39,8 +39,18 @@ body {
   box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
 }
 
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211,211,211), rgba(0, 0, 0, 0));
+}
+
+
 
 .index-portfolio a{
   text-decoration: none;
   color: #696969;
 }
+
+
+
