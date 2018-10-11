@@ -8,13 +8,38 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>Events</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/modern-business.css" rel="stylesheet">
+
+    <!-- Fullcalendar-->
+    <link rel='stylesheet' href='js/fullcalendar/fullcalendar.css' />
+    <script src='vendor/jquery/jquery.min.js'></script>
+    <script src='js/moment.min.js'></script>
+    <script src='js/fullcalendar/fullcalendar.js'></script>
+    <script type='text/javascript' src='js/fullcalendar/gcal.js'></script>
+
+
+    <script type='text/javascript'>
+      $(document).ready( function() {
+        $('#calendar').fullCalendar({
+          googleCalendarApiKey: 'AIzaSyCmWSckJIPM4P6LczQMrjUgSUV61VRNYg8',
+          events: {
+            googleCalendarId: 'ole.augie.edu_epkd6162fusi6hfn0jtqj5tumk@group.calendar.google.com'
+          },
+          header: {
+            left: 'prev,next today myCustomButton',
+            center: 'title',
+            right: 'month,agendaWeek,agendaDay'
+          }
+
+        })
+      });
+    </script>
 
   </head>
 
@@ -43,15 +68,20 @@
       </div>
     </nav>
 
+    
+
     <!-- Page Content -->
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Portfolio 1
+      <h1 class="mt-4 mb-3">Events
         <small>Subheading</small>
       </h1>
 
-      <iframe src="https://calendar.google.com/calendar/embed?src=ole.augie.edu_epkd6162fusi6hfn0jtqj5tumk%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+      <!-- Fullcalendar-->
+      <!--API KEY: AIzaSyCmWSckJIPM4P6LczQMrjUgSUV61VRNYg8-->
+      <div id='calendar'></div> 
+
 
       <!-- Project One -->
       <div class="row">
@@ -167,7 +197,7 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <!--<script src="vendor/jquery/jquery.min.js"></script>-->
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   </body>
