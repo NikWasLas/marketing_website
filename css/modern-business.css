@@ -45,7 +45,20 @@ hr.style-two {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211,211,211), rgba(0, 0, 0, 0));
 }
 
+.capital {
+   font-size: 60px;
+   text-align: center;
+}
 
+hr.margin-2 {
+  margin-bottom: 2cm;
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  /*color: #333; /* old IE */
+  /*background-color: #333; /* Modern Browsers */
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(150,150,150), rgba(0, 0, 0, 0));
+}
 
 .index-portfolio a{
   text-decoration: none;
