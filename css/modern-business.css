@@ -28,12 +28,16 @@ body {
   margin-bottom: 30px;
 }
 
+.card-site-widget{
+  border: none;
+  color: #2d2c2c;
+}
 
 .card-no_border {
   border: none;
 }
 
-.card:hover {
+.index-card:hover {
   -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
   -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
   box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
@@ -54,9 +58,6 @@ hr.margin-2 {
   margin-bottom: 2cm;
   border: none;
   height: 2px;
-  /* Set the hr color */
-  /*color: #333; /* old IE */
-  /*background-color: #333; /* Modern Browsers */
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(150,150,150), rgba(0, 0, 0, 0));
 }
 
