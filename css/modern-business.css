@@ -5,66 +5,87 @@
  */
 
 body {
-  padding-top: 54px;
+    padding-top: 54px;
 }
 
 @media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+    body {
+        padding-top: 56px;
+    }
 }
 
 .carousel-item {
-  height: 65vh;
-  min-height: 300px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .portfolio-item {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
-.card-site-widget{
-  border: none;
-  color: #2d2c2c;
+.card-site-widget {
+    border: none;
+    color: #2d2c2c;
 }
 
 .card-no_border {
-  border: none;
+    border: none;
 }
 
 .index-card:hover {
-  -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
-  -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
-  box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
 }
 
 hr.style-two {
     border: 0;
     height: 1px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211,211,211), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211, 211, 211), rgba(0, 0, 0, 0));
 }
 
 .capital {
-   font-size: 60px;
-   text-align: center;
+    font-size: 60px;
+    text-align: center;
 }
 
 hr.margin-2 {
-  margin-bottom: 2cm;
-  border: none;
-  height: 2px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(150,150,150), rgba(0, 0, 0, 0));
+    margin-bottom: 2cm;
+    border: none;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(150, 150, 150), rgba(0, 0, 0, 0));
 }
 
-.index-portfolio a{
-  text-decoration: none;
-  color: #696969;
+.index-portfolio a {
+    text-decoration: none;
+    color: #696969;
 }
 
+.heighttext {
+    padding: 10px 10px;
+    line-height: 23px;
+    font-size: 23px;
+}
+
+.main-subsection {
+    text-align: center;
+    font-size: 40px;
+    color: #696969;
+}
+
+.main-subsubsection {
+    text-align: center;
+    color: #696969;
+}
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
 
 
