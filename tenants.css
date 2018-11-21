@@ -14,13 +14,19 @@
 
 }
 
+body, html {
+    height: 100%;
+}
+
 .image_sharing-the-dream {
     background-image: url("pictures/tenants/template4.jpg"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
 }
 
 .transparent {
@@ -75,4 +81,19 @@
 a:hover {
     text-decoration: none;
     color: rgb(237, 73, 73);
+}
+
+.description {
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.color-gray {
+    color: rgb(154, 154, 154);
+    font-weight: bold;
+
+}
+
+#content {
+    color: rgb(119, 118, 118);
 }
