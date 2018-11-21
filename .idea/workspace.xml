@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="190326dc-2157-4b55-a9c0-6578fea99503" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tenants.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-home-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-home-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/modern-business.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modern-business.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full-width.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/index/logos.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/index/logos.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-2-col.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-3-col.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-4-col.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharingTheDream.html" beforeDir="false" afterPath="$PROJECT_DIR$/SharingTheDream.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenants.css" beforeDir="false" afterPath="$PROJECT_DIR$/tenants.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +16,13 @@
     <favorites_list name="marketing_website" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4031142">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3705">
+                <state relative-caret-position="770">
                   <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
                 </state>
               </provider>
@@ -43,8 +31,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/tenants.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+                <state relative-caret-position="600">
+                  <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -52,7 +40,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/modern-business.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="613">
+                <state relative-caret-position="688">
                   <caret line="69" selection-start-line="69" selection-end-line="69" />
                 </state>
               </provider>
@@ -61,8 +49,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/SharingTheDream.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="388">
-                  <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+                <state relative-caret-position="945">
+                  <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -70,12 +58,21 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/SharingTheDream.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="208">
-                  <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+                <state relative-caret-position="285">
+                  <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/fonts/Cousine Bold/stylesheet.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -112,8 +109,9 @@
         <option value="$PROJECT_DIR$/blog-post.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/modern-business.css" />
-        <option value="$PROJECT_DIR$/tenants.css" />
+        <option value="$PROJECT_DIR$/css/fonts/handwritten/stylesheet.css" />
         <option value="$PROJECT_DIR$/SharingTheDream.html" />
+        <option value="$PROJECT_DIR$/tenants.css" />
       </list>
     </option>
   </component>
@@ -138,6 +136,19 @@
               <item name="marketing_website" type="b2602c69:ProjectViewProjectNode" />
               <item name="marketing_website" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketing_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketing_website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketing_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketing_website" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="Cousine Bold" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marketing_website" type="b2602c69:ProjectViewProjectNode" />
@@ -187,12 +198,14 @@
       <workItem from="1540524462848" duration="2704000" />
       <workItem from="1540865690394" duration="149000" />
       <workItem from="1540917479828" duration="1081000" />
-      <workItem from="1542081720873" duration="1514000" />
+      <workItem from="1542081720873" duration="2426000" />
+      <workItem from="1542334832132" duration="855000" />
+      <workItem from="1542749217644" duration="3373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5448000" />
+    <option name="totallyTimeSpent" value="10588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,8 +220,8 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.16881259" />
-      <window_info id="Structure" order="1" sideWeight="0.5019608" side_tool="true" visible="true" weight="0.16881259" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79738563" visible="true" weight="0.17310444" />
+      <window_info id="Structure" order="1" sideWeight="0.20261438" side_tool="true" visible="true" weight="0.17310444" />
       <window_info id="Favorites" order="2" sideWeight="0.5007236" side_tool="true" weight="0.16666667" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -235,29 +248,43 @@
     <entry file="file://$PROJECT_DIR$/blog-post.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3705">
+        <state relative-caret-position="770">
           <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modern-business.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
+        <state relative-caret-position="688">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tenants.css">
+    <entry file="file://$PROJECT_DIR$/css/fonts/handwritten/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts/Cousine Bold/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SharingTheDream.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        <state relative-caret-position="945">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
         </state>
       </provider>
     </entry>

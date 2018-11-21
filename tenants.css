@@ -1,8 +1,78 @@
-.image_sharing-the-dream{
+@font-face {
+    font-family: "Handwritten";
+    src: url("./css/fonts/handwritten/Handwritten.eot?") format("eot"), url("./css/fonts/handwritten/Handwritten.woff") format("woff"), url("./css/fonts/handwritten/Handwritten.ttf") format("truetype"), url("./css/fonts/handwritten/Handwritten.svg#Handwritten") format("svg");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cousinebold';
+    src: url('./css/fonts/Cousine Bold/cousine-bold-webfont.woff2') format('woff2'),
+    url('./css/fonts/Cousine Bold/cousine-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.image_sharing-the-dream {
     background-image: url("pictures/tenants/template4.jpg"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
     height: 500px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.transparent {
+    opacity: 0.9;
+    border-radius: 0px;
+}
+
+.topic {
+    font-family: "cousinebold", Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: -1px;
+    word-spacing: -8px;
+    color: rgb(154, 154, 154);
+    font-weight: 900;
+    margin-bottom: 15px;
+    margin-left: 3%;
+    margin-top: 15px;
+
+}
+
+.subtopic {
+    font-family: "Handwritten", Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: rgb(154, 154, 154);
+    font-weight: 900;
+    font-style: italic;
+    margin-left: 3%;
+    margin-bottom: 6%;
+}
+
+.card-paragraph {
+    margin-left: 6%;
+    margin-bottom: 9%;
+}
+
+.link-nice {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: rgb(237, 73, 73);
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: none solid rgb(68, 68, 68);
+    text-transform: none;
+    margin-left: 3%;
+    margin-bottom: 30px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(237, 73, 73);
 }
