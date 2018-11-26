@@ -120,3 +120,7 @@ hr.margin-2 {
     display: block;
     margin: auto;
 }
+
+.portfolio-item {
+    margin-bottom: 5%;
+}
