@@ -76,6 +76,7 @@ hr.margin-2 {
     text-align: center;
     font-size: 40px;
     color: #696969;
+    margin-top: -3%;
 }
 
 .main-subsubsection {
@@ -83,9 +84,39 @@ hr.margin-2 {
     color: #696969;
 }
 
-.col-centered{
+.col-centered {
     margin: 0 auto;
     float: none;
 }
 
+.card-transparent {
+    background-color: rgba(1, 1, 1, 0);
+}
 
+.card-topic {
+    font-size: 30px;
+    color: #696969;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: -2%;
+    margin-top: 3%;
+}
+
+.card-my-text {
+    text-align: justify;
+}
+
+.img-center {
+    width: 323px;
+    height: 195px;
+    display: block;
+    margin: auto;
+}
+
+.img-center-events {
+    width: 100%;
+    height: 195px;
+    display: block;
+    margin: auto;
+}
