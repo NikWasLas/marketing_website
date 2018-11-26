@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="190326dc-2157-4b55-a9c0-6578fea99503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/index/logos.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/index/logos.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/logos/logos.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/logos/logos.psd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -216,12 +212,12 @@
       <workItem from="1542081720873" duration="2426000" />
       <workItem from="1542334832132" duration="855000" />
       <workItem from="1542749217644" duration="11127000" />
-      <workItem from="1543002301483" duration="6998000" />
+      <workItem from="1543002301483" duration="7073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25340000" />
+    <option name="totallyTimeSpent" value="25415000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,7 +230,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7963855" visible="true" weight="0.17525035" />
       <window_info id="Structure" order="1" sideWeight="0.20361446" side_tool="true" visible="true" weight="0.17525035" />
