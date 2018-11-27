@@ -14,6 +14,10 @@ body {
     }
 }
 
+#social-media {
+    width: 100%;
+}
+
 .carousel-item {
     height: 65vh;
     min-height: 300px;
@@ -123,4 +127,48 @@ hr.margin-2 {
 
 .portfolio-item {
     margin-bottom: 5%;
+}
+
+.centered {
+    margin: auto;
+}
+
+.main-subsection {
+    text-align: center;
+    font-size: 40px;
+    margin-top: -3%;
+}
+
+.nav3 {
+    width: 700px;
+    margin: auto;
+}
+
+.icons {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 3%;
+}
+
+.icons-small {
+    width: 95%;
+    height: 95%;
+}
+
+.space-footer {
+    margin-bottom: 30px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: transparent !important;
+    border: 0px;
+}
+
+.privacy {
+    font-style: italic;
+    font-size: 90%;
+    text-align: center;
 }

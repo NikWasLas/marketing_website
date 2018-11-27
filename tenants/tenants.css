@@ -19,7 +19,7 @@ body, html {
 }
 
 .image_sharing-the-dream {
-     background-image: url("../pictures/tenants/template4.jpg"); /* The image used */
+     background-image: url("../pictures/tenants/sharing_the_dream.png"); /* The image used */
      background-color: #cccccc; /* Used if the image is unavailable */
      background-position: center; /* Center the image */
      background-repeat: no-repeat; /* Do not repeat the image */
