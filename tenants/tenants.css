@@ -72,7 +72,7 @@ body, html {
 
 .card-paragraph {
     margin-left: 6%;
-    margin-bottom: 9%;
+    margin-bottom: 1%;
 }
 
 .link-nice {
@@ -108,4 +108,22 @@ a:hover {
 #content {
     color: rgb(119, 118, 118);
     text-align: left;
+}
+
+.nav3 {
+    width: 100%;
+    text-align: right;
+}
+
+.icons {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.icons-small {
+    width: 100%;
+    height: 100%;
 }
