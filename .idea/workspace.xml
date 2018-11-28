@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="190326dc-2157-4b55-a9c0-6578fea99503" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/modern-business.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modern-business.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pictures/index/SLIDES.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/index/SLIDES.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/index/SLIDES_TWO.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/index/SLIDES_TWO.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/logos/black/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/logos/black/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/MKThreads.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/MKThreads.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/SharingTheDream.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/SharingTheDream.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/template.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tenants/tenants.css" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/tenants.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,20 +20,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.383218">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="753">
-                  <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
+                <state relative-caret-position="425">
+                  <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/modern-business.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="208" selection-start-line="208" selection-end-line="211" selection-end-column="1" />
+                <state relative-caret-position="693">
+                  <caret line="225" column="1" selection-start-line="225" selection-start-column="1" selection-end-line="225" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -51,12 +42,13 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="275">
-                  <caret line="57" column="105" selection-start-line="57" selection-start-column="105" selection-end-line="57" selection-end-column="105" />
+                <state relative-caret-position="299">
+                  <caret line="274" column="49" selection-start-line="274" selection-start-column="49" selection-end-line="274" selection-end-column="49" />
                   <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -64,29 +56,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/contact.html">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tenants/Boki_Gelato.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="753">
-                  <caret line="169" selection-start-line="169" selection-end-line="169" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/events.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="595">
-                  <caret line="227" selection-start-line="227" selection-end-line="227" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/history.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2400">
-                  <caret line="160" selection-start-line="160" selection-end-line="160" />
+                <state relative-caret-position="437">
+                  <caret line="118" column="34" selection-start-line="118" selection-start-column="34" selection-end-line="118" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -104,7 +78,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>swamp</find>
       <find>bella</find>
       <find>card</find>
       <find>sear</find>
@@ -132,6 +105,8 @@
       <find>game</find>
       <find>The S</find>
       <find>btn</find>
+      <find>swamp</find>
+      <find>Boki</find>
     </findStrings>
     <replaceStrings>
       <replace>index-card h-100</replace>
@@ -152,7 +127,6 @@
         <option value="$PROJECT_DIR$/tenants.css" />
         <option value="$PROJECT_DIR$/SharingTheDream.html" />
         <option value="$PROJECT_DIR$/css/modern-business.css" />
-        <option value="$PROJECT_DIR$/tenants/tenants.css" />
         <option value="$PROJECT_DIR$/tenants/TheSource.html" />
         <option value="$PROJECT_DIR$/tenants/GameChest.html" />
         <option value="$PROJECT_DIR$/tenants/SharingTheDream.html" />
@@ -160,7 +134,14 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/events.html" />
         <option value="$PROJECT_DIR$/history.html" />
+        <option value="$PROJECT_DIR$/tenants/ShrimpDaddys.html" />
+        <option value="$PROJECT_DIR$/tenants/BokiGrill.html" />
+        <option value="$PROJECT_DIR$/tenants/SwampDaddys.html" />
+        <option value="$PROJECT_DIR$/tenants/tenants.css" />
+        <option value="$PROJECT_DIR$/tenants/LavenderSkies.html" />
+        <option value="$PROJECT_DIR$/tenants/BellaRosa.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tenants/Boki_Gelato.html" />
       </list>
     </option>
   </component>
@@ -236,12 +217,12 @@
       <workItem from="1542749217644" duration="11127000" />
       <workItem from="1543002301483" duration="7073000" />
       <workItem from="1543288420873" duration="5853000" />
-      <workItem from="1543347902412" duration="9843000" />
+      <workItem from="1543347902412" duration="13537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41111000" />
+    <option name="totallyTimeSpent" value="44805000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,20 +285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="202" column="1" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="208" selection-start-line="208" selection-end-line="211" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tenants/TheSource.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
@@ -367,14 +334,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="225" column="1" selection-start-line="225" selection-start-column="1" selection-end-line="225" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/SwampDaddys.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/LavenderSkies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/BellaRosa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="76" column="173" selection-start-line="76" selection-start-column="173" selection-end-line="76" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="57" column="105" selection-start-line="57" selection-start-column="105" selection-end-line="57" selection-end-column="105" />
+        <state relative-caret-position="299">
+          <caret line="274" column="49" selection-start-line="274" selection-start-column="49" selection-end-line="274" selection-end-column="49" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/BokiGrill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="71" column="54" lean-forward="true" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/Boki_Gelato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="118" column="34" selection-start-line="118" selection-start-column="34" selection-end-line="118" selection-end-column="34" />
         </state>
       </provider>
     </entry>

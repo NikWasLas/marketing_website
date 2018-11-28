@@ -79,6 +79,49 @@ body, html {
     margin-bottom: 10%;
 }
 
+.image_LavenderSkies {
+    background-image: url("../pictures/tenants/lavenderSkies.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+.image_bokiGrill {
+    background-image: url("../pictures/tenants/Boki_grill.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+.image_SwampDaddy {
+    background-image: url("https://via.placeholder.com/2000"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+.image_bokiGelato {
+    background-image: url("../pictures/tenants/boki_gelato.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
 
 
 /*
@@ -201,3 +244,4 @@ a:hover {
     background-color: rgb(153,183,104);
     border-color: rgb(153,183,104);
 }
+
