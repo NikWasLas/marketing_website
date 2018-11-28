@@ -14,9 +14,26 @@
 
 }
 
+@font-face {
+    font-family: 'Bebas';
+    src: url('../css/fonts/bebas/Bebas.eot');
+    src: url('../css/fonts/bebas/Bebas.eot?#iefix') format('embedded-opentype'),
+    url('../css/fonts/bebas/Bebas.woff2') format('woff2'),
+    url('../css/fonts/bebas/Bebas.woff') format('woff'),
+    url('../css/fonts/bebas/Bebas.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body, html {
     height: 100%;
 }
+
+/*
+--------------- BACKGORUND - IMAGES ------------------
+*/
+
 
 .image_sharing-the-dream {
      background-image: url("../pictures/tenants/sharing_the_dream.png"); /* The image used */
@@ -39,6 +56,34 @@ body, html {
     height: 100%;
     margin-bottom: 10%;
 }
+
+.image_gameChest {
+    background-image: url("../pictures/tenants/gameChest.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+.image_theSource {
+    background-image: url("../pictures/tenants/theSource.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
+
+
+/*
+--------------- OTHER ------------------
+*/
 
 .transparent {
     opacity: 0.9;
@@ -101,8 +146,6 @@ a:hover {
 
 .color-gray {
     color: rgb(154, 154, 154);
-    font-weight: bold;
-
 }
 
 #content {
@@ -110,15 +153,17 @@ a:hover {
     text-align: left;
 }
 
-.nav3 {
+.nav-social-media {
+    margin-top: -4%;
     width: 100%;
     text-align: right;
 }
 
+
 .icons {
     display: inline-block;
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     margin-right: 10px;
     margin-left: 10px;
 }
@@ -126,4 +171,33 @@ a:hover {
 .icons-small {
     width: 100%;
     height: 100%;
+}
+
+/* FOOTER */
+.nav3 {
+    width: 700px;
+    margin: auto;
+}
+
+.icons-footer {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 3%;
+}
+
+.icons-small-footer {
+    width: 95%;
+    height: 95%;
+}
+
+.vertical-space {
+    margin-bottom: 20%;
+}
+
+.button-color-custom-footer {
+    background-color: rgb(153,183,104);
+    border-color: rgb(153,183,104);
 }

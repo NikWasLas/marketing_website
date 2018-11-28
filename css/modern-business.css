@@ -178,3 +178,49 @@ hr.margin-2 {
     font-size: 90%;
     text-align: center;
 }
+
+.navbar-brand {
+    position: absolute;
+    left: 10%;
+    top: -30%;
+    width: 30px;
+    margin-left: 0px;
+    padding: 30px;
+}
+
+.sub-text {
+    color: white;
+    text-underline-style: none;
+    margin-top: 20%;
+}
+
+.color-gray {
+    color: rgb(154, 154, 154);
+}
+
+.logo-green {
+    color: rgb(153,183,104);
+}
+
+.spacing-topic {
+    margin-top: 5%;
+}
+
+.button-color-custom-footer {
+    background-color: rgb(153,183,104);
+    border-color: rgb(153,183,104);
+}
+
+.button-color-custom {
+    color: rgb(153,183,104);
+    border-color: rgb(153,183,104);
+}
+
+button.button-color-custom:hover{
+    background-color: rgb(153,183,104);
+    border-color: rgb(153,183,104);
+}
+
+.border-green{
+    border-color: rgb(153,183,104);
+}

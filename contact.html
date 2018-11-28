@@ -20,38 +20,39 @@
 
   <body>
 
-    <!-- Navigation -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="index.html">Jones 421</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html">Welcome</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="history.html">History</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="events.html">Events</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
+  <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="./index.html"><img src="./pictures/logos/Jones_custom.png"></a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Welcome</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="history.html">History</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="events.html">Events</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="contact.html">Contact</a>
+          </li>
+        </ul>
       </div>
-    </nav>
+    </div>
+  </nav>
 
     <!-- Page Content -->
     <div class="container">
 
+      <div class="spacing-topic">
+      </div>
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3">Contact
-        <small></small>
       </h1>
 
       <!-- Content Row -->
@@ -123,7 +124,7 @@
             </div>
             <div id="success"></div>
             <!-- For success/fail messages -->
-            <button type="submit" class="btn btn-primary" id="sendMessageButton">Send Message</button>
+            <button type="submit" class="btn btn-success" id="sendMessageButton">Send Message</button>
           </form>
         </div>
 
@@ -133,15 +134,41 @@
     </div>
     <!-- /.container -->
 
-    <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container text-center text-white">
+      <h1> Connect with <span class="color-gray">Jones</span><span class="logo-green">421</span></h1>
+      <div class="nav3">
+        <a href="http://www.facebook.com/" class="icons"><img class="icons-small-footer" src="./pictures/logos/white/facebook.png"><p class="sub-text">Facebook</p></a>
+        <a href="https://twitter.com" class="icons"><img class="icons-small-footer" src="./pictures/logos/white/twitter.png"> <p class="sub-text">Twitter</p></a>
+        <a href="mailto:jones@421.com" class="icons"><img class="icons-small-footer" src="./pictures/logos/white/mail.png"><p class="sub-text">Email</p></a>
+        <a href="https://twitter.com" class="icons"><img class="icons-small-footer" src="./pictures/logos/white/instagram.png"><p class="sub-text">Instagram</p></a>
       </div>
-      <!-- /.container -->
-    </footer>
 
-    <!-- Bootstrap core JavaScript -->
+      <br>
+      <br>
+      <br>
+
+      <h2 class="main-subsection-footer ">Subscribe</h2>
+      <p class="">
+        Sign up for our newsletter, Jones Mail, for special offers, classes, events and more.
+      </p>
+
+      <div class="col-centered input-group col-lg-6 mb-3">
+        <input id="inputGroup-sizing-lg-footer" type="text" class="form-control heighttext" placeholder="Email Address" aria-label="e-mail" aria-describedby="basic-addon2">
+        <div class="input-group-append">
+          <button class="btn btn-success button-color-custom-footer" type="button">Subscribe</button>
+        </div>
+      </div>
+
+      <p class="privacy">We respect your privacy.</p>
+      <p class=" privacy m-0 text-center text-white">Copyright &copy; Marketing Promotions 2018</p>
+
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
