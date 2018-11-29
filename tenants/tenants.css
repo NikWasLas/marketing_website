@@ -102,7 +102,7 @@ body, html {
 }
 
 .image_SwampDaddy {
-    background-image: url("https://via.placeholder.com/2000"); /* The image used */
+    background-image: url("../pictures/tenants/swampDaddys.png"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
@@ -123,10 +123,23 @@ body, html {
     margin-bottom: 10%;
 }
 
+.image_bellaRosa {
+    background-image: url("../pictures/tenants/bellaRosa.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    height: 100%;
+    margin-bottom: 10%;
+}
+
 
 /*
 --------------- OTHER ------------------
 */
+
+
 
 .transparent {
     opacity: 0.9;

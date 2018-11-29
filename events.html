@@ -27,16 +27,16 @@
     <script type='text/javascript'>
       $(document).ready( function() {
         $('#calendar').fullCalendar({
+          height: 700,
           googleCalendarApiKey: 'AIzaSyCmWSckJIPM4P6LczQMrjUgSUV61VRNYg8',
           events: {
             googleCalendarId: 'ole.augie.edu_epkd6162fusi6hfn0jtqj5tumk@group.calendar.google.com'
           },
           header: {
-            left: 'prev,next today myCustomButton',
+            left: 'prev',
             center: 'title',
-            right: 'month,agendaWeek,agendaDay'
+            right: 'next'
           }
-
         })
       });
     </script>
@@ -71,16 +71,13 @@
     </div>
   </nav>
 
-    
+    <img class="style-picture" src="./pictures/events/Events.png">
 
     <!-- Page Content -->
     <div class="container">
 
       <div class="spacing-topic">
       </div>
-      <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Events
-      </h1>
 
       <!-- Fullcalendar-->
       <!--API KEY: AIzaSyCmWSckJIPM4P6LczQMrjUgSUV61VRNYg8-->

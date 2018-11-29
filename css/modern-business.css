@@ -224,3 +224,7 @@ button.button-color-custom:hover{
 .border-green{
     border-color: rgb(153,183,104);
 }
+
+.style-picture {
+    width: 100%;
+}
