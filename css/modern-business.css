@@ -1,8 +1,12 @@
-/*!
- * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
- */
+@font-face {
+    font-family: 'barbie';
+    src: url('../css/fonts/barbie/barbie-webfont.woff2') format('woff2'),
+    url('../css/fonts/barbie/barbie-webfont.woff') format('woff');
+    url('../css/fonts/barbie/barbie.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 body {
     padding-top: 54px;
@@ -56,7 +60,7 @@ hr.style-two {
 .capital {
     font-size: 60px;
     text-align: center;
-    color: rgb(153,183,104);
+    color: rgb(153, 183, 104);
 }
 
 hr.margin-2 {
@@ -110,7 +114,7 @@ hr.margin-2 {
 }
 
 .card-title {
-    color: rgb(119,119,119);
+    color: rgb(119, 119, 119);
 }
 
 .card-my-text {
@@ -199,7 +203,7 @@ hr.margin-2 {
 }
 
 .logo-green {
-    color: rgb(153,183,104);
+    color: rgb(153, 183, 104);
 }
 
 .spacing-topic {
@@ -207,24 +211,43 @@ hr.margin-2 {
 }
 
 .button-color-custom-footer {
-    background-color: rgb(153,183,104);
-    border-color: rgb(153,183,104);
+    background-color: rgb(153, 183, 104);
+    border-color: rgb(153, 183, 104);
 }
 
 .button-color-custom {
-    color: rgb(153,183,104);
-    border-color: rgb(153,183,104);
+    color: rgb(153, 183, 104);
+    border-color: rgb(153, 183, 104);
 }
 
-button.button-color-custom:hover{
-    background-color: rgb(153,183,104);
-    border-color: rgb(153,183,104);
+button.button-color-custom:hover {
+    background-color: rgb(153, 183, 104);
+    border-color: rgb(153, 183, 104);
 }
 
-.border-green{
-    border-color: rgb(153,183,104);
+.border-green {
+    border-color: rgb(153, 183, 104);
 }
 
 .style-picture {
     width: 100%;
+}
+
+.content {
+    color: rgb(124, 124, 124);
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+.subheading {
+    color: rgb(153, 183, 104);
+    text-align: right;
+    margin-left: 2%;
+}
+.cont-desc {
+    font-family: Helvetica, sans-serif;
+    font-size: xx-large;
+    color: rgb(154,154,154);
+    font-weight: 100;
+    margin-top: 2%;
 }
