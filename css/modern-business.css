@@ -251,3 +251,10 @@ button.button-color-custom:hover {
     font-weight: 100;
     margin-top: 2%;
 }
+
+.style-three {
+    margin-bottom: 5%;
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211, 211, 211), rgba(0, 0, 0, 0));
+}
