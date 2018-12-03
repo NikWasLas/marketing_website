@@ -3,22 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="190326dc-2157-4b55-a9c0-6578fea99503" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/modern-business.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modern-business.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/Topic.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/Topic.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/events/Events.psd" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/events/Events.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/BellaRosa.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/BellaRosa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/BokiGrill.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/BokiGrill.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/Boki_Gelato.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/Boki_Gelato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/GameChest.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/GameChest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/LavenderSkies.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/LavenderSkies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/MKThreads.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/MKThreads.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/SharingTheDream.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/SharingTheDream.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/SwampDaddys.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/SwampDaddys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenants/TheSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/TheSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/Topic.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenants/tenants.css" beforeDir="false" afterPath="$PROJECT_DIR$/tenants/tenants.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +24,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.383218">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="131">
-                  <caret line="141" selection-start-line="141" selection-end-line="141" />
+                <state relative-caret-position="650">
+                  <caret line="260" selection-start-line="260" selection-end-line="260" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modern-business.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="690">
-                  <caret line="257" column="13" selection-start-line="257" selection-start-column="13" selection-end-line="257" selection-end-column="13" />
+                <state relative-caret-position="680">
+                  <caret line="262" column="20" selection-start-line="262" selection-start-column="20" selection-end-line="262" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -55,11 +46,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="47" />
+                <state relative-caret-position="536">
+                  <caret line="136" column="86" selection-start-line="136" selection-start-column="86" selection-end-line="136" selection-end-column="86" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,35 +60,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/events.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="82" column="63" selection-start-line="82" selection-start-column="63" selection-end-line="82" selection-end-column="63" />
-                  <folding>
-                    <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/contact.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="693">
-                  <caret line="67" selection-start-line="67" selection-end-line="67" />
-                  <folding>
-                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/history.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="59" column="43" selection-start-line="59" selection-end-line="60" />
+                <state relative-caret-position="487">
+                  <caret line="158" column="368" selection-start-line="158" selection-start-column="368" selection-end-line="158" selection-end-column="368" />
                   <folding>
                     <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -118,7 +85,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>target=&quot;_blank&quot;</find>
       <find>MKT</find>
       <find>Sharing The Dream</find>
       <find>mkth</find>
@@ -148,6 +114,7 @@
       <find>fc-center</find>
       <find>inde</find>
       <find>two</find>
+      <find>desc</find>
     </findStrings>
     <replaceStrings>
       <replace>index-card h-100</replace>
@@ -168,10 +135,7 @@
         <option value="$PROJECT_DIR$/tenants.css" />
         <option value="$PROJECT_DIR$/SharingTheDream.html" />
         <option value="$PROJECT_DIR$/tenants/ShrimpDaddys.html" />
-        <option value="$PROJECT_DIR$/tenants/tenants.css" />
         <option value="$PROJECT_DIR$/js/fullcalendar/fullcalendar.css" />
-        <option value="$PROJECT_DIR$/css/modern-business.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tenants/BellaRosa.html" />
         <option value="$PROJECT_DIR$/tenants/Boki_Gelato.html" />
         <option value="$PROJECT_DIR$/tenants/BokiGrill.html" />
@@ -183,7 +147,10 @@
         <option value="$PROJECT_DIR$/tenants/TheSource.html" />
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/tenants/tenants.css" />
+        <option value="$PROJECT_DIR$/css/modern-business.css" />
         <option value="$PROJECT_DIR$/events.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -261,12 +228,12 @@
       <workItem from="1543288420873" duration="5853000" />
       <workItem from="1543347902412" duration="13741000" />
       <workItem from="1543512602819" duration="6804000" />
-      <workItem from="1543790077861" duration="3872000" />
+      <workItem from="1543790077861" duration="4416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55685000" />
+    <option name="totallyTimeSpent" value="56229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,7 +248,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79156625" visible="true" weight="0.18383405" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79156625" visible="true" weight="0.18383405" />
       <window_info id="Structure" order="1" sideWeight="0.20843373" side_tool="true" visible="true" weight="0.18383405" />
       <window_info id="Favorites" order="2" sideWeight="0.5007236" side_tool="true" weight="0.16666667" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,20 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="257" column="13" selection-start-line="257" selection-start-column="13" selection-end-line="257" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tenants/SharingTheDream.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -413,18 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/history.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -445,12 +386,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tenants/tenants.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="260" selection-start-line="260" selection-end-line="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="262" column="20" selection-start-line="262" selection-start-column="20" selection-end-line="262" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="82" column="63" selection-start-line="82" selection-start-column="63" selection-end-line="82" selection-end-column="63" />
+        <state relative-caret-position="487">
+          <caret line="158" column="368" selection-start-line="158" selection-start-column="368" selection-end-line="158" selection-end-column="368" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="136" column="86" selection-start-line="136" selection-start-column="86" selection-end-line="136" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

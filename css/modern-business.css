@@ -258,3 +258,10 @@ button.button-color-custom:hover {
     height: 2px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(211, 211, 211), rgba(0, 0, 0, 0));
 }
+
+.cont-text {
+    font-size: large;
+    color: rgb(154,154,154);
+    font-weight: 100;
+    margin-top: 2%;
+}
